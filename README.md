@@ -1,6 +1,5 @@
-# shrutii
-# 💫 About Me:
-Heyy!! I'm Shruti ,i am currently studying in Electronics and communication engineering specialization in AIML. <br>I am most interested in UI/UX Design creating Interactive Web Designs using AI and integration ML models.<br>🔭 I’m currently working on improving my Front-End Development & UI/UX skills<br>👯 I’m looking to collaborate on creative web and AI-related projects<br>🤝 I’m looking for help with AI integrations and advanced UI/UX concepts<br>🌱 I’m currently learning JavaScript, AI tools, and modern web technologies<br>💬 Ask me about UI/UX design, Figma, HTML, CSS, and creative tech ideas<br>⚡ Fun fact: I enjoy combining creativity and technology to build user-friendly digital experiences while adding some personal touches to my designs.<br>
+# 💫 Heyy!! I'm Shruti
+I am currently studying in Electronics and communication engineering specialization in AIML. <br>I am most interested in UI/UX Design creating Interactive Web Designs using AI and integration ML models.<br>🔭 I’m currently working on improving my Front-End Development & UI/UX skills<br>👯 I’m looking to collaborate on creative web and AI-related projects<br>🤝 I’m looking for help with AI integrations and advanced UI/UX concepts<br>🌱 I’m currently learning JavaScript, AI tools, and modern web technologies<br>💬 Ask me about UI/UX design, Figma, HTML, CSS, and creative tech ideas<br>⚡ Fun fact: I enjoy combining creativity and technology to build user-friendly digital experiences while adding some personal touches to my designs.<br>
 
 
 ## 🌐 Socials:
