@@ -11,6 +11,5 @@ Heyy!! I'm Shruti ,i am currently studying in Electronics and communication engi
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=shrutii&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
